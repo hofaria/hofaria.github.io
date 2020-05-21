@@ -1,0 +1,98 @@
+body{background:#addde6; 
+	margin-left:75px;
+	margin-right:75px;}
+@font-face {
+    font-family:"poetsen_oneregular";
+    font-style:sans-serif;
+    src: url(poetsenOne-Regular_Copy.ttf);
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+	text-align:center; 
+	color:#0c2226;
+	border-bottom: solid;
+	border-color:#e6add8;
+    font-family:"poetsen_oneregular";
+	font-size:3em;}
+h2{
+	text-align:left;
+	color:#0c2226;
+	margin-left: 50px;
+	background:#ade6bb;
+}
+a:link{
+	font-family:arial;
+	color:#d472bc;
+	font-size:1em;
+
+}
+a:visited{
+	font-family:arial;
+	color:#0c2226;
+	font-size:1em;
+}
+a:hover{
+	font-family:arial;
+	color:#0c2226;
+	background: #e6add8;
+	font-size:1em;
+}
+a:active{
+	font-family: arial;
+	color:#d472bc;
+	font-size:1em;
+}
+p{
+	font-family: arial;
+	font-size:1em;
+	margin:20px;
+}
+img.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height:100px;
+	padding:10px;
+	border:solid;
+	border-color:#ade6bb;
+}
+p.headerbar{
+	background:#ade6bb;
+	font-size:1em;
+	color: #d472bc;
+	border-bottom:solid;
+	border-color:#e6add8;
+	padding:15px;
+}
+img.embed{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 500px;
+}
+ul.default{
+	border-left: solid;
+	border-color: #e6add8;
+	margin-left: 40px;
+}
+div.footer{
+	position:fixed;
+	bottom:10px;
+	background:#ade6bb;
+	float:right;
+	font-family:arial;
+	font-size:.75em;
+}
+h3{
+	font-family: "poetsen_oneregular";
+	color:#0c2226;
+	font-style: italic;
+	margin-left: 100px;
+	font-size:1.5em;
+	background-color:#ffffff;
+	padding-top:50px;
+	padding-bottom: 2em;
+	padding-left: 25px
+}
